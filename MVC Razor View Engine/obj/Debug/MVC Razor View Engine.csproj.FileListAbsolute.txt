@@ -1,0 +1,166 @@
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\MVC Razor View Engine.dll.config
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\MVC Razor View Engine.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\MVC Razor View Engine.pdb
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csc.exe
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csc.exe.config
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csc.rsp
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csi.exe
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csi.exe.config
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csi.rsp
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.AppContext.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Collections.Immutable.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Console.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.Compression.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.FileSystem.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.Pipes.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Reflection.Metadata.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.AccessControl.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Claims.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.ValueTuple.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Xml.XPath.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\vbc.exe
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\vbc.exe.config
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\vbc.rsp
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\VBCSCompiler.exe
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\VBCSCompiler.exe.config
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\Antlr3.Runtime.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\Microsoft.Web.Infrastructure.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\Newtonsoft.Json.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Helpers.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Mvc.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Optimization.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Razor.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.Deployment.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.Razor.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\WebGrease.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Helpers.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Mvc.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Optimization.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Razor.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.Deployment.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.Razor.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\Newtonsoft.Json.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\Antlr3.Runtime.pdb
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.Helpers.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.Mvc.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.Optimization.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.Razor.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.WebPages.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.csprojAssemblyReference.cache
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.csproj.CoreCompileInputs.cache
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.csproj.CopyComplete
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.dll
+D:\Etude_Facult\WorkSpeaceC#\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.pdb
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\MVC Razor View Engine.dll.config
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\MVC Razor View Engine.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\MVC Razor View Engine.pdb
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csc.exe
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csc.exe.config
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csc.rsp
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csi.exe
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csi.exe.config
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\csi.rsp
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.AppContext.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Collections.Immutable.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Console.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.Compression.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.FileSystem.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.IO.Pipes.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Reflection.Metadata.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.AccessControl.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Claims.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.ValueTuple.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Xml.XPath.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\vbc.exe
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\vbc.exe.config
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\vbc.rsp
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\VBCSCompiler.exe
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\roslyn\VBCSCompiler.exe.config
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\Antlr3.Runtime.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\Microsoft.Web.Infrastructure.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\Newtonsoft.Json.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Helpers.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Mvc.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Optimization.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Razor.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.Deployment.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.Razor.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\WebGrease.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Helpers.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Mvc.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Optimization.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.Razor.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.Deployment.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\System.Web.WebPages.Razor.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\Newtonsoft.Json.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\Antlr3.Runtime.pdb
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.Helpers.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.Mvc.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.Optimization.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.Razor.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.WebPages.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.csprojAssemblyReference.cache
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.csproj.CoreCompileInputs.cache
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.csproj.CopyComplete
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.dll
+D:\Etude_Facult\WorkSpeaceC#\khalid essadani\MVC Razor View Engine\MVC Razor View Engine\obj\Debug\MVC Razor View Engine.pdb

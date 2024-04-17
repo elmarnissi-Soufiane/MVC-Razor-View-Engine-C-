@@ -1,0 +1,71 @@
+﻿@model MVC_Razor_View_Engine.Models.Customer
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>Search</h2>
+
+<!-- appele de Temp Date dans la view . -->
+<h1>@ViewBag.Msg</h1>
+
+<div>
+    <!-- Pour Prender Les Valeurs Du Action Est Afficher Sur une autre View . -->
+    @using (Html.BeginForm("Search", "Customer", FormMethod.Post))
+    {
+        <input name="name" id="name" type="text" />
+        <input type="submit" value="Search" />
+    }
+</div>
+
+<div>
+    @if (ViewBag.Result != null)
+    {
+        if ((bool)ViewData["key"] == true)
+        {
+            <h3 class="alert alert-warning">@ViewBag.Result</h3>
+        }
+        else
+        {
+            <h3 class="alert alert-danger">@ViewBag.Result</h3>
+        }
+
+    }
+    <h4>Customer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Adresse)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Adresse)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tele)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tele)
+        </dd>
+
+    </dl>
+</div>

@@ -1,0 +1,47 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title> Header </title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    <!-- l'appel du partial View . -->
+    <!-- Methode 1 :: -->
+    @*@Html.Partial("_MenuPartial")*@
+
+    <!-- Methode 2 :: -->
+    @{ 
+        Html.RenderPartial("_MenuPartial");
+    }
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <!-- Definir Section avec le nom :: true ==> obligie de fiare . false ==> n'est obligie de faire . -->
+    <!-- l'appel sur DisplayCustomer . -->
+    @RenderSection("Reviews", false)
+
+    <div class="container body-content">
+        <hr />
+        <footer class="bg-dark">
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <div>
+                © 2020 Copyright:
+                <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+            </div>
+        </footer>
+    </div>
+
+
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

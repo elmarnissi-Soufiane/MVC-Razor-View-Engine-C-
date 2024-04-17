@@ -1,0 +1,47 @@
+﻿@model MVC_Razor_View_Engine.Models.Customer
+
+<!-- Cette la pour include une layoute designer . -->
+@*@{Layout = "~/Views/Shared/_Layout.cshtml";}*@
+
+
+<table class="table table-bordered table-hover" style="margin-top:100px">
+    <tr>
+        <td>Customer Id : </td>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <td>Customer Name : </td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td>Customer Adresse : </td>
+        <td>@Model.Adresse</td>
+    </tr>
+    <tr>
+        <td>Customer Age : </td>
+        <td>@Model.Age</td>
+    </tr>
+    <tr>
+        <td>Customer Télèphone : </td>
+        <td>@Model.Tele</td>
+    </tr>
+</table>
+
+<!-- Create Link With Action : -->
+@Html.ActionLink("Go To Search", "Search")
+
+<!-- section :: prende le nom passe sur RenderSection() . -->
+<!-- l'appel de RenderSection() . -->
+@section Reviews{
+    <div>
+        <h1>Reviews Section . </h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
+}
